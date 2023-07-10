@@ -2,4 +2,5 @@
 
 Este é um projeto de **Git** e **Github.**
 
-- adicionando mais modificação no Readme.md
+- Adicionando mais modificação no Readme.md
+- Adicionada uma nova branch no projeto
